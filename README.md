@@ -3,8 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvieira&color=blue&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
 <div align="center">
   <a href="">
-  <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api?username=elvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="310em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvieira&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=elvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 - 🔥 Aprendendo programação
