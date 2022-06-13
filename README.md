@@ -2,7 +2,6 @@
 <h1 align="left">Olá! Eu sou o Elias Vieira!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elvieira&color=blue&label=Visualizações+do+Perfil" alt="Visualizações do Perfil" />
 <div align="center">
-  <a href="">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=elvieira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvieira&layout=compact&langs_count=7&theme=dark"/>
 </div>
@@ -23,3 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ## 👨🏻 &nbsp;Redes Sociais
+
+<a href="https://instagram.com/elvieira" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-elvieira-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
