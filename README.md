@@ -26,3 +26,6 @@
 <a href="https://instagram.com/elvieira" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-elvieira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
+<a href="https://www.linkedin.com/in/elvieira9/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-elvieira9-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
