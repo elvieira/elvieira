@@ -23,9 +23,18 @@
 
 ## 👨🏻 &nbsp;Redes Sociais
 
-<a href="https://instagram.com/elvieira" target="_blank">
+<a href="https://www.facebook.com/el.vieira09/" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-el.vieira09-05122A?style=flat&logo=facebook" alt="facebook"/>
+</a>
+<a href="https://github.com/elvieira" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-elvieira-05122A?style=flat&logo=github" alt="github"/>
+</a>
+<a href="https://www.instagram.com/el.vieira/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-elvieira-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.linkedin.com/in/elvieira9/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-elvieira9-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+<a href="https://twitter.com/elvieira9" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-elvieira9-05122A?style=flat&logo=twitter" alt="twitter"/>
 </a>
